@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+body {
+    width: 60%;
+    margin: auto;
+    box-shadow: 2px 2px 4px 3px;
+}
+
+h2 {
+    text-align: left;
+    color: rgb(60, 57, 57);
+}
+
+.col img {
+    margin-left: 60px;
+}
+
+.col-2 h1 {
+    color: rgb(60, 57, 57);
+    font-size: 29px;
+}
+
+.col p {
+    font-size: 20px;
+}
+
+.seccion {
+    display: flex;
+    background-color: aqua;
+}
+
+.line {
+    background-color: rgb(247, 223, 36);
+    height: 14px;
+    margin-top: -16px;
+}
+
+.col {
+    width: 43.6%;
+    text-align: left;
+    background-color: rgb(252, 199, 100);
+    padding: 80px 80px 0px 20px;
+}
+
+.col-2 {
+    margin-top: 80px;
+    margin-left: 30px;
+    text-align: center;
+    color: rgb(152, 147, 147);
+}
+
+
+
+
+
